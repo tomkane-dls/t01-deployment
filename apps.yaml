@@ -13,7 +13,7 @@ spec:
     namespace: kgv66629
   source:
     path: apps
-    repoURL: https://github.com/tomkane-dls/t01-deployment
+    repoURL: https://github.com/tomkane-dls/t01-deployment.git
     targetRevision: main
     helm:
       version: v3
