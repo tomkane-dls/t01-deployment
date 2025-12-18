@@ -32,7 +32,7 @@ services:
     targetRevision: main
   bl01t-di-cam-01:
     enabled: true
-    targetRevision: main
+    targetRevision: detector-changes
   t01-gateways:
     enabled: true
     targetRevision: main
