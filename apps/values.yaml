@@ -39,3 +39,6 @@ services:
   bl01t-ea-align-01:
     enabled: true
     targetRevision: main
+  bl01t-ea-flip-01:
+    enabled: true
+    targetRevision: main
